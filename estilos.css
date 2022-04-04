@@ -14,7 +14,6 @@ body {
 	width: 90%;
 	max-width: 1000px;
 	margin: 40px auto 100px auto;
-
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
 	gap: 40px;
@@ -25,6 +24,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: start;
+	align-items: center;
     gap: 15px;
     height: 245px;
 }
